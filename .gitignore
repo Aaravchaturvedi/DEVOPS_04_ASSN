@@ -1,0 +1,14 @@
+node_modules/
+build/
+dist/
+*.log
+.env
+# SonarQube
+sonarqube-*
+*.zip
+*.jar
+
+# Node/Build
+node_modules/
+dist/
+build/
